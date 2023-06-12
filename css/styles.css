@@ -124,7 +124,6 @@ section .logo_inicio3 {
     width: 80%;
     height: auto;
     margin: 2rem auto;
-
     align-items: center;
   }
 }
@@ -441,11 +440,11 @@ a {
 }
 
 .card__image--p {
-  background-image: url(/img/proyecto/SecureCoding.jpg);
+  background-image: url(../img/proyecto/SecureCoding.jpg);
 }
 
 .card__image--d {
-  background-image: url(/img/proyecto/desafios.jpg);
+  background-image: url(../img/proyecto/desafios.jpg);
 }
 
 .card__title {
